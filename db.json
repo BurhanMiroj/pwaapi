@@ -1,0 +1,104 @@
+{
+"products" : [
+  {
+    "id": 1,
+    "name": "Tamarra",
+    "category": "Teal"
+  },
+  { 
+    "id": 2, 
+    "name": "Hollyanne", 
+    "category": "Blue" 
+  },
+  { 
+    "id": 3, 
+    "name": "Ozzy", 
+    "category": "Blue" 
+  },
+  { 
+    "id": 4, 
+    "name": "Zaneta", 
+    "category": "Aquamarine" 
+  },
+  { 
+    "id": 5, 
+    "name": "Carmelita", 
+    "category": "Maroon" 
+  },
+  { 
+    "id": 6, 
+    "name": "Merline", 
+    "category": "Violet" 
+  },
+  { 
+    "id": 7, 
+    "name": "Nananne", 
+    "category": "Puce" 
+  },
+  { 
+    "id": 8, 
+    "name": "Antonella", 
+    "category": "Maroon" 
+  },
+  { 
+    "id": 9, 
+    "name": "Osmond", 
+    "category": "Goldenrod" 
+  },
+  { 
+    "id": 10, 
+    "name": "Clem", 
+    "category": "Red" 
+  },
+  { 
+    "id": 11, 
+    "name": "Benedicto", 
+    "category": "Goldenrod" 
+  },
+  { 
+    "id": 12, 
+    "name": "Opaline", 
+    "category": "Yellow" 
+  },
+  { 
+    "id": 13, 
+    "name": "Olenolin", 
+    "category": "Violet" 
+  },
+  { 
+    "id": 14, 
+    "name": "Shelden", 
+    "category": "Indigo" 
+  },
+  { 
+    "id": 15, 
+    "name": "Mattie", 
+    "category": "Crimson" 
+  },
+  { 
+    "id": 16, 
+    "name": "Floris", 
+    "category": "Purple" 
+  },
+  { 
+    "id": 17, 
+    "name": "Aile", 
+    "category": "Purple" 
+  },
+  { 
+    "id": 18, 
+    "name": "Xylina", 
+    "category": "Indigo" 
+  },
+  { 
+    "id": 19, 
+    "name": "Ingaborg", 
+    "category": "Turquoise" 
+  },
+  { 
+    "id": 20, 
+    "name": "Giffie", 
+    "category": "Goldenrod" 
+  }
+]
+}
